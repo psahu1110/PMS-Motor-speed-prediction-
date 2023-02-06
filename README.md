@@ -1,1 +1,2 @@
 # PMS-Motor-speed-prediction-
+Motor speed prediction is a machine learning project that aims to predict the speed of an electric motor based on various input features. The project typically involves collecting data on motor characteristics and operating conditions, pre-processing the data, selecting and training an appropriate machine learning model, evaluating the model's performance, and using the model to make predictions on new data. The specific details of the project will depend on the type of motor, the available data, and the desired level of accuracy.
